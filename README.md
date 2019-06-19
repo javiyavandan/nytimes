@@ -39,3 +39,6 @@ Open NYTImes.xcworkspace with Xcode 10.1 or later.
 
 run project with iPhone simulator having OS 11.0 or later
 
+# Acknowledgments
+App is using some third party open source libraries. There are no need to take any licences for same.
+
